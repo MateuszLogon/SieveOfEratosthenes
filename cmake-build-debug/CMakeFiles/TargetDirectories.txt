@@ -1,0 +1,3 @@
+C:/Users/SUPERKOMP/CLionProjects/SieveOfEratosthenes/cmake-build-debug/CMakeFiles/SieveOfEratosthenes.dir
+C:/Users/SUPERKOMP/CLionProjects/SieveOfEratosthenes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SUPERKOMP/CLionProjects/SieveOfEratosthenes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
